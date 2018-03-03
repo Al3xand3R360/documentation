@@ -1,3 +1,6 @@
 # Talk: write better code automatically
 
-look into: git hooks
+look into: 
+- git hooks (precommit hook)
+- use code linters
+- 
